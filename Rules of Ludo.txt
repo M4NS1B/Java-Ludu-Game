@@ -1,0 +1,11 @@
+Rules of Ludo:
+
+-You can unlock your tokens by rolling a 6 on your dice. 
+
+-You can eliminate the opponent’s token by playing your token on theirs. The eliminated token must start all over again.
+ 
+-Rolling a 6 will get you an additional turn. Rolling three 6s consecutively will skip your turn.
+ 
+-When all the player’s tokens reach the home base, the game shall end, and the player will win.
+
+-There are safe circles throughout the board, meaning that if another piece decides to roll into your safe circle, you will not be eliminated.
